@@ -1,5 +1,4 @@
 
-      <div class="gap" id="project-description">
   <p><img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210420%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210420T000822Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9c76004d950a1c3cf56dc117ea1227222cff79815e8f4f6f67b863e51f905997" alt="" style="" /></p>
 
 <h1>Welcome!</h1>
